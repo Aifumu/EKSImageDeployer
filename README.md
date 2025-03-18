@@ -90,10 +90,12 @@ go run main.go  -env=pre  -services=docs-fe -version=v3.48.2
 
 
 # 📦 目录结构
+```
 EKSImageDeployer/
 │── config.json         # 环境配置文件
 │── services.json       # 服务配置文件
 │── internal/logger/    # 日志管理模块
 │── main.go             # 主程序入口
+```
 
 
