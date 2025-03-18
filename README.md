@@ -1,5 +1,6 @@
-# EKSImageDeployer
+# EKSImageDeployer多环境上线脚本
 🚀 一个用于 AWS EKS Kubernetes 部署的 Go 语言服务，支持自动部署镜像到 K8s 集群（注意：只支持deplopment）。
+
 📌 项目介绍
 本项目用于在 AWS EKS 集群中自动部署应用，提供以下功能：
 
