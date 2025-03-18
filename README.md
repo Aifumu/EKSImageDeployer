@@ -98,7 +98,7 @@ EKSImageDeployer/
 │── internal/logger/logger.go    # 日志管理模块
 ```
 
-# 发布效果
+# 📜 发布效果
 ![image](https://github.com/user-attachments/assets/33e21ce2-5f20-4960-88b7-ff7763984445)
 
 
