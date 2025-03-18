@@ -1,0 +1,15 @@
+{
+  "environments": {
+    "pre": {
+      "context": "arn:aws:eks:us-east-2:1234567890:cluster/app-pre",
+      "namespace": "app-pre",
+      "registry": "1234567890.dkr.ecr.us-east-2.amazonaws.com"
+    },
+    "prod": {
+      "context": "arn:aws:eks:us-east-2:1234567890:cluster/app-prod",
+      "namespace": "app-prod",
+      "registry": "1234567890.dkr.ecr.us-east-2.amazonaws.com"
+    }
+  }
+}
+

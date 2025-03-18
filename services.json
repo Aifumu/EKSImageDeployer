@@ -1,0 +1,21 @@
+{
+  "single_services": {
+    "docs-fe": {
+      "version": "v3.48.2",
+      "enabled": true
+    }
+  },
+  "service_groups": {
+    "nft": {
+      "version": "v1.15.5",
+      "enabled": true,
+      "services": [
+        "nft-berachain-be",
+        "nft-core-be",
+        "nft-ethereum-be"
+      ]
+    }
+  }
+}
+
+
